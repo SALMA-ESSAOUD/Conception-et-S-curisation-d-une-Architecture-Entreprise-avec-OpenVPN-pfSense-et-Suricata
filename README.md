@@ -100,7 +100,7 @@ L'infrastructure repose sur **4 machines virtuelles** réparties sur deux résea
 ## 📄 Documentation
 
 Le rapport complet du projet (PDF) détaille chaque étape avec captures d'écran, commandes et explications :  
-📎 [`controle.pdf`](./controle.pdf)
+📎 [`Conception-et-S-curisation-d-une-Architecture-Entreprise-avec-OpenVPN-pfSense-et-Suricata.pdf`](./Conception-et-S-curisation-d-une-Architecture-Entreprise-avec-OpenVPN-pfSense-et-Suricata.pdf)
 
 ## 🎯 Conclusion
 
